@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ProcessingTemplate" type="JarApplication">
+    <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/ProcessingTemplate/ProcessingTemplate.jar" />
+    <option name="WORKING_DIRECTORY" value="C:\Users\andre\Desktop\IntelliJ-Idea-Processing-Template\out\artifacts\ProcessingTemplate" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <method v="2">
+      <option name="BuildArtifacts" enabled="true">
+        <artifact name="ProcessingTemplate" />
+      </option>
+    </method>
+  </configuration>
+</component>
